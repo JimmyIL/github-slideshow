@@ -1,0 +1,16 @@
+_posts/0000-01-02-JimmyIL.md.
+----                -------------         ------ ----
+d-----        8/26/2021   3:28 PM                node_modules
+d-----        8/26/2021   3:28 PM                script
+d-----        8/26/2021   3:28 PM                _includes
+d-----        8/26/2021   3:28 PM                _layouts
+d-----        8/26/2021   3:28 PM                _posts
+-a----        8/26/2021   3:28 PM            415 .editorconfig
+-a----        8/26/2021   3:28 PM             49 .gitignore
+-a----        8/26/2021   3:28 PM              0 .gitmodules
+-a----        8/26/2021   3:28 PM            156 Gemfile
+-a----        8/26/2021   3:28 PM           8027 Gemfile.lock
+-a----        8/26/2021   3:28 PM            365 index.html
+-a----        8/26/2021   3:28 PM           1111 LICENSE
+-a----        8/26/2021   3:28 PM            331 package-lock.json
+-a----        8/26/2021   3:28 PM           1075 README.md
